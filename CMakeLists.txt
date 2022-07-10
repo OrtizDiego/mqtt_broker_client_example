@@ -1,0 +1,4 @@
+project(mqtt_broker_client_example)
+
+add_subdirectory(location_data_generator) # Building location_data_generator
+add_subdirectory(location_data_processor) # Building location_data_processor
